@@ -1,0 +1,12 @@
+👋 Hi, I’m Adiwert
+👀 I’m interested in SLEEPING and EATING
+🌱 I’m currently learning C++, Python, C#, Java
+💞️ I’m still studying but will definitely seek for any collaboration in future
+📫 How to reach me:
+Email: stewart.ting@gmail.com
+
+
+<!---
+Adiwert/Adiwert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
