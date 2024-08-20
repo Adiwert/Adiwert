@@ -1,6 +1,6 @@
 👋 Hi, I’m Adiwert
 👀 I’m interested in Artificial Intelligence and Fintech
-🌱 I’m currently learning C++, Python, C#, Java
+🌱 I’m currently learning C language, Python, Java
 💞️ I’m still studying but will definitely seek for any collaboration in the future
 📫 How to reach me:
 Email: stewart.ting@gmail.com
